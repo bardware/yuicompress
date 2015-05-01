@@ -4,7 +4,7 @@
 	<cfset THIS.javaSettings = {
 			LoadPaths = ["/lib"]
 			, loadColdFusionClassPath = true
-			, reloadOnChange= true
+			, reloadOnChange = true
 			, watchInterval = 10
 	}>
 
