@@ -1,0 +1,10 @@
+/*
+!.gitignore
+!.project
+!Application.cfc
+!index.cfm
+!README.md
+!LICENSE.md
+!cfc/
+!examples/
+!lib/
